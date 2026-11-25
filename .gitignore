@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environments & secrets
+.env
+venv/
+.venv/
+env/
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
